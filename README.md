@@ -5,6 +5,6 @@ Password requirements: Length – minimum of 10 characters. Contain both alphabe
 
 ## Script execution:
 Clone the script using `git clone Run the script: ./password-validator.ps1 '[password]'.
-or : 
-If the option “-f” is added the password should be retrieved from a file and Run the script: 
+
+or If the option “-f” is added the password should be retrieved from a file and Run the script: 
 ./password-validator.sh -f "/mypath/password.txt"
