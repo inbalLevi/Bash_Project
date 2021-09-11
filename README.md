@@ -10,4 +10,4 @@ Include both the small and capital case letters.
 ## Script execution:
 
 Clone the script using `git clone
-Run the script: ./password-validator.sh '[password]'
+The password should be retrieved from a file and Run the script: ./password-validator.sh -f "/mypath/password.txt"
